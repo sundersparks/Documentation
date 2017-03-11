@@ -1,6 +1,14 @@
 Work Flow : 
 ===========
 
+Clone - Add - Commit - Push 
+
+Pull request - Merge - 
+
+Branching - 
+
+get checkout -b Branch1
+git branch 
 
 
 

@@ -20,6 +20,10 @@ Pull Request for new Branch
 Merge Request for the new pulled 
 Confirm the merge 
 
+PULL from the GitHub :
+======================
+git pull origin master
+
 
 
 

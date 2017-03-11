@@ -1,9 +1,47 @@
-Work Flow : 
-===========
+WORK FLOW: 
+==========
+============================================================================================================================
+									Clone - Add - Commit - Push 
+============================================================================================================================
 
-Clone - Add - Commit - Push 
+PULL PROJECT from GitHub : CLONE
+=========================
+git clone <gitUrl>  
+	Example - git clone https://github.com/sundersparks/Documentation.git
 
-Pull request - Merge - 
+ADD/REMOVE Commands : 
+====================
+
+git add <fileName>
+	Example - git add GitCommands.txt
+git add -A  - Adding all the files 
+
+git rm <filename>
+git reset HEAD
+git rm -f < fileName>
+	git rm -f GitCommands.txt
+
+COMMIT :
+========
+Committing all the changes
+	git commit -m "Message" 
+Adding and Committing all the changes  
+	git commit -a -m "message"
+
+
+PUSH:
+=====
+Pushing the File to Master:
+	git push origin master
+
+PULL from the GitHub :
+======================
+git pull origin master
+
+
+============================================================================================================================
+									BRANCH  -sPull request - Merge - 
+============================================================================================================================
 
 Branching - on Local 
 ====================
@@ -25,50 +63,9 @@ PULL from the GitHub :
 git pull origin master
 
 
-
-
-
-
-Pulling the Project from GitHub
--------------------------------
-
-git clone <gitUrl>  
-	Example - git clone https://github.com/sundersparks/Documentation.git
-
-User Local Commands :
----------------------
-
-git add <fileName>
-	Example - git add GitCommands.txt
-git add -A  - Adding all the files 
-
-Remove file from Git : 
---------------------- 
-git rm <filename>
-
-git reset HEAD
-
-Remove the staged file - use -f :
---------------------------------
-git rm -f < fileName>
-	git rm -f GitCommands.txt
-	
-COMMIT : 
---------
-Committing all the changes
-	git commit -m "Message" 
-Adding and Commiting all the changes  
-	git commit -a -m "message"
-	
-
-PUSH:
------
-Pushing the File to Master:
-	git push origin master
-
-
-Pushing the Branch to master:	
+Pushing the Branch to master:
+==============================	
 git push --set-upstream origin <branchName>
 
-	
+
 

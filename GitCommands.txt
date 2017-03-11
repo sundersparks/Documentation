@@ -27,4 +27,11 @@ Remove the staged file - use -f :
 git rm -f < fileName>
 	git rm -f GitCommands.txt
 	
+COMMIT : 
+--------
+Committing all the changes
+	git commit -m "Message" 
+Adding and Commiting all the changes  
+	git commit -a -m "message"
+	
 

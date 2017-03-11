@@ -5,10 +5,22 @@ Clone - Add - Commit - Push
 
 Pull request - Merge - 
 
-Branching - 
-
-get checkout -b Branch1
+Branching - on Local 
+====================
 git branch 
+get checkout -b Branch1
+git add GitCommands.txt 
+git commit -m "Committing file in branch"
+git push --set-upstream origin Branch1
+git branch --delete Branch1
+
+Branching - On GitHub
+=====================
+Pull Request for new Branch 
+Merge Request for the new pulled 
+Confirm the merge 
+
+
 
 
 

@@ -1,4 +1,4 @@
-WORK FLOW:  - Change on the Git to pull 
+WORK FLOW: 
 ==========
 ==========================================================================================
 						Clone - Add - Commit - Push 

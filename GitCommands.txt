@@ -5,6 +5,7 @@ Create a central Repository
 ==========================================================================================
 
 SSH gituserID git init --bare /Path.git
+updated on Local
 
 Adding on the GITgub
 

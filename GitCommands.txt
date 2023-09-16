@@ -8,7 +8,7 @@ SSH gituserID git init --bare /Path.git
 updated on Local here
 
 Adding on the GITgub
-
+Pull to Local 
 ==========================================================================================
 						Clone - Add - Commit - Push 
 ==========================================================================================
